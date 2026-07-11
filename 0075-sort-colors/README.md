@@ -30,3 +30,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong>&nbsp;Could you come up with a one-pass algorithm using only&nbsp;constant extra space?</p>
+
+<H1>SOLUTION</H1>
+<img width="1203" height="1308" alt="Color sort" src="https://github.com/user-attachments/assets/07e1482d-52b5-40d3-ab42-94fee1881aa1" />
