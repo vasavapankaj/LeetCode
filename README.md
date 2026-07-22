@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vasavapankaj/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasavapankaj/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/vasavapankaj/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/vasavapankaj/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vasavapankaj/LeetCode/tree/master/1480-running-sum-of-1d-array) |
