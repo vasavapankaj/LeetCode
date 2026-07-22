@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vasavapankaj/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vasavapankaj/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/vasavapankaj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vasavapankaj/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vasavapankaj/LeetCode/tree/master/0136-single-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vasavapankaj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/vasavapankaj/LeetCode/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vasavapankaj/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/vasavapankaj/LeetCode/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vasavapankaj/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
