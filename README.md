@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vasavapankaj/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vasavapankaj/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasavapankaj/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/vasavapankaj/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/vasavapankaj/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vasavapankaj/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vasavapankaj/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vasavapankaj/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasavapankaj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vasavapankaj/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasavapankaj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vasavapankaj/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Math
@@ -122,9 +125,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vasavapankaj/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vasavapankaj/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/vasavapankaj/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
