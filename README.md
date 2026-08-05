@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vasavapankaj/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasavapankaj/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vasavapankaj/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vasavapankaj/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/vasavapankaj/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vasavapankaj/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vasavapankaj/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavapankaj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vasavapankaj/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasavapankaj/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vasavapankaj/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasavapankaj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vasavapankaj/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vasavapankaj/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vasavapankaj/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasavapankaj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vasavapankaj/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Math
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vasavapankaj/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/vasavapankaj/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/vasavapankaj/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vasavapankaj/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vasavapankaj/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vasavapankaj/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/vasavapankaj/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -101,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vasavapankaj/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vasavapankaj/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vasavapankaj/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
