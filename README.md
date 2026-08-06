@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vasavapankaj/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vasavapankaj/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/vasavapankaj/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/vasavapankaj/LeetCode/tree/master/1518-water-bottles) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vasavapankaj/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/vasavapankaj/LeetCode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/vasavapankaj/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
